@@ -2,6 +2,9 @@
     --color-titulo-principal: #8bc34a;   
 }
 
+body{
+        font-family: 'Lato', sans-serif;
+}
 .cancion{
     position: relative;
     float: left;
